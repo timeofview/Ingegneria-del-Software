@@ -1,7 +1,5 @@
 Ingegneria del Software
 -----------------------
 -----------------------
-Breve descrizione 
-*   Properties
-*   Properties
-*   Properties
+
+Proprio un bel progetto
