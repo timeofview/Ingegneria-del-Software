@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T16:19:34.865Z" agent="5.0 (Windows)" etag="wBItY9PWfKQcbANMP9uz" version="15.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-27T16:22:33.482Z" agent="5.0 (Windows)" etag="3BPDL3MmZAW0jqJBm0EJ" version="15.0.2" type="github">
   <diagram id="FAFqv0YFfy0wZtvdMSJw" name="Page-1">
-    <mxGraphModel dx="7332" dy="2469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7806" dy="2729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -353,7 +353,7 @@
           <mxGeometry x="30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k5QQbJl_lLXqa5jH-GES-142" value="NOTIFICATIONS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="-1160" y="-670" width="260" height="190" as="geometry" />
+          <mxGeometry x="-3184" y="3160" width="260" height="190" as="geometry" />
         </mxCell>
         <mxCell id="k5QQbJl_lLXqa5jH-GES-143" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="k5QQbJl_lLXqa5jH-GES-142" vertex="1">
           <mxGeometry y="30" width="260" height="30" as="geometry" />
@@ -653,7 +653,7 @@
           <mxGeometry x="30" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k5QQbJl_lLXqa5jH-GES-242" value="PRINTER_PREFERENCES" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="-2140" y="2040" width="320" height="310" as="geometry" />
+          <mxGeometry x="-2240" y="2040" width="320" height="310" as="geometry" />
         </mxCell>
         <mxCell id="k5QQbJl_lLXqa5jH-GES-243" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="k5QQbJl_lLXqa5jH-GES-242" vertex="1">
           <mxGeometry y="30" width="320" height="30" as="geometry" />
@@ -803,7 +803,7 @@
           <mxGeometry x="30" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k5QQbJl_lLXqa5jH-GES-292" value="ITEMS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="80" width="320" height="460" as="geometry" />
+          <mxGeometry x="-1600" y="2040" width="320" height="460" as="geometry" />
         </mxCell>
         <mxCell id="k5QQbJl_lLXqa5jH-GES-293" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="k5QQbJl_lLXqa5jH-GES-292" vertex="1">
           <mxGeometry y="30" width="320" height="30" as="geometry" />
@@ -1025,7 +1025,7 @@
           <mxGeometry x="30" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k5QQbJl_lLXqa5jH-GES-373" value="SHOPPING_CARTS_ITEMS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1610" y="80" width="320" height="280" as="geometry" />
+          <mxGeometry x="-3214" y="2760" width="320" height="280" as="geometry" />
         </mxCell>
         <mxCell id="k5QQbJl_lLXqa5jH-GES-374" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="k5QQbJl_lLXqa5jH-GES-373" vertex="1">
           <mxGeometry y="30" width="320" height="30" as="geometry" />
@@ -1100,7 +1100,7 @@
           <mxGeometry x="30" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k5QQbJl_lLXqa5jH-GES-398" value="STATISTICS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="80" width="300" height="250" as="geometry" />
+          <mxGeometry x="-3980" y="3170" width="300" height="250" as="geometry" />
         </mxCell>
         <mxCell id="k5QQbJl_lLXqa5jH-GES-399" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="k5QQbJl_lLXqa5jH-GES-398" vertex="1">
           <mxGeometry y="30" width="300" height="30" as="geometry" />
@@ -1859,7 +1859,7 @@
           <mxGeometry x="30" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k5QQbJl_lLXqa5jH-GES-651" value="USERS_WORK_AREAS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="-2760" y="2040" width="320" height="280" as="geometry" />
+          <mxGeometry x="-2900" y="2040" width="320" height="280" as="geometry" />
         </mxCell>
         <mxCell id="k5QQbJl_lLXqa5jH-GES-652" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="k5QQbJl_lLXqa5jH-GES-651" vertex="1">
           <mxGeometry y="30" width="320" height="30" as="geometry" />
@@ -1934,7 +1934,7 @@
           <mxGeometry x="30" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k5QQbJl_lLXqa5jH-GES-676" value="WORKAREAS_PRINTING_PREFERENCES" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="2010" y="440" width="320" height="220" as="geometry" />
+          <mxGeometry x="-960" y="2050" width="320" height="220" as="geometry" />
         </mxCell>
         <mxCell id="k5QQbJl_lLXqa5jH-GES-677" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="k5QQbJl_lLXqa5jH-GES-676" vertex="1">
           <mxGeometry y="30" width="320" height="30" as="geometry" />
